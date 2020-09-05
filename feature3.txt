@@ -1,5 +1,4 @@
 file feature 3
 masuk pak eko 3
 halo
-saya coba feature 4
-kamu
+feature 4
