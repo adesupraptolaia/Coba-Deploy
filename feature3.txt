@@ -1,4 +1,4 @@
 file feature 3
-masuk pak eko
+masuk pak eko 3
 halo 1
 halo 2
